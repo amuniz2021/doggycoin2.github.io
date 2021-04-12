@@ -1,0 +1,60 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bento</title>
+    <link>https://amuniz2021.github.io/</link>
+    <description>Recent content on Bento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://amuniz2021.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://amuniz2021.github.io/post/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amuniz2021.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends</title>
+      <link>https://amuniz2021.github.io/trends/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amuniz2021.github.io/trends/</guid>
+      <description>&lt;p&gt;Dogecoin has recently become trending, and some of it&amp;rsquo;s biggest jumps occurred in 2021.It&amp;rsquo;s first big spike happened in January 2018. This is when it jumped from $0.002200 to $0.017100. Despite this jump, Dogecoin fell again to about $0.002083 and then plateaued at that price for about 2 years.&lt;/p&gt;
+&lt;p&gt;The year of 2021 is when it spiked dramatically due to events happening in the Stock Market and celebrities endorsing Dogecoin. This is when it&amp;rsquo;s price increased from $0.004648 in December 2020 to a maximum of $0.077372 in February 2021.Since then it has been stable at around $0.055.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://amuniz2021.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amuniz2021.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://amuniz2021.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amuniz2021.github.io/about/</guid>
+      <description>&lt;p&gt;Dogecoin was first founded on December 6, 2013 and was created by Billy Markus and Jackson Palmer. It first began as a meme and was a cryptocurrency not meant to be taken seriously but picked up in 2020 and 2021 due to celebrity tweets from Elon MUsk and Snoop Dog.&lt;/p&gt;
+&lt;p&gt;Trading platforms to buy DogeCoin:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dogecoin.com/&#34;&gt;https://dogecoin.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robinhood.com/crypto/DOGE&#34;&gt;https://robinhood.com/crypto/DOGE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tinyurl.com/3s7hk9wk&#34;&gt;https://tinyurl.com/3s7hk9wk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
